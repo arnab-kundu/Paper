@@ -135,7 +135,7 @@ fun NoteScreen(
             val pv = paddingValues.calculateBottomPadding()
             Column(
                 modifier = Modifier
-                    .padding(0.dp, 0.dp, 0.dp, if (pv > 45.dp) pv - 45.dp else pv)
+                    .padding(0.dp, 60.dp, 0.dp, if (pv > 45.dp) pv - 45.dp else pv)
                     .fillMaxSize()
             ) {
                 val data = uiState.note.getUriList()

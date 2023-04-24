@@ -61,7 +61,7 @@ fun CustomAlertDialog(
             dismissButton = {
                 Button(
                     onClick = { setShowDialog(false) },
-                    modifier = Modifier.padding(8.dp)
+                    modifier = Modifier.padding(8.dp, 0.dp)
                 ) {
                     Text(
                         text = stringResource(
