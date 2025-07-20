@@ -4,6 +4,7 @@
 [![](https://androidweekly.net/issues/issue-496/badge?style=flat-square)](https://androidweekly.net/issues/issue-496)
 [![](https://img.shields.io/badge/APK-1.0.0-black?style=flat-square&logo=googleplay)](https://play.google.com/store/apps/details?id=io.ak1.paper)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Paper-green.svg?style=flat-square)](https://android-arsenal.com/details/3/8296)
+[![Android Studio Ladybug](https://img.shields.io/badge/Android%20Studio%20Ladybug-2024.2.2-green.svg?style=flat-square)](https://developer.android.com/studio/releases/past-releases/as-ladybug-release-notes)
 
 A minimal notes application in [Jetpack Compose](https://developer.android.com/jetpack/compose) with [MVVM architecture](https://developer.android.com/jetpack/guide).
 Built with components like DataStore, Coroutines, ViewModel, Flow-State, Room, Navigation-Compose, Coil, koin etc.
